@@ -1,3 +1,4 @@
+https://asasas234.github.io/post/native%E5%86%85%E5%AD%98%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.html
 https://asasas234.github.io/post/%E9%AB%98%E7%BA%A7%E6%96%87%E4%BB%B6IO.html
 https://asasas234.github.io/post/RocketMQ-NameServer%E7%9A%84%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E8%84%89%E7%BB%9C.html
 https://asasas234.github.io/post/Maven%E5%A4%9A%E6%A8%A1%E5%9D%97%E7%BB%9F%E4%B8%80%E7%AE%A1%E7%90%86%E7%89%88%E6%9C%AC.html
@@ -9,3 +10,5 @@ https://asasas234.github.io/tags/mysql/
 https://asasas234.github.io/tags/RocketMQ/
 https://asasas234.github.io/tags/linux/
 https://asasas234.github.io/tags/IO/
+https://asasas234.github.io/tags/JVM/
+https://asasas234.github.io/tags/Java/
