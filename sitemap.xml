@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://asasas234.github.io/post/%E7%BF%BB%E8%AF%91bpf-performance-tools%E7%AC%AC7%E7%AB%A0%E5%86%85%E5%AD%98.html</loc>
-    
-    <lastmod>2022-05-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://asasas234.github.io/post/native%E5%86%85%E5%AD%98%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.html</loc>
     
     <lastmod>2022-05-21</lastmod>
@@ -106,13 +97,6 @@
   </url>
   
   <url>
-    <loc>https://asasas234.github.io/tags/maven/</loc>
-    <lastmod>2022-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://asasas234.github.io/tags/mockito/</loc>
     <lastmod>2022-06-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -121,6 +105,13 @@
   
   <url>
     <loc>https://asasas234.github.io/tags/SpringBoot/</loc>
+    <lastmod>2022-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://asasas234.github.io/tags/maven/</loc>
     <lastmod>2022-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -141,6 +132,13 @@
   </url>
   
   <url>
+    <loc>https://asasas234.github.io/tags/JVM/</loc>
+    <lastmod>2022-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://asasas234.github.io/tags/linux/</loc>
     <lastmod>2022-06-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -148,28 +146,7 @@
   </url>
   
   <url>
-    <loc>https://asasas234.github.io/tags/Memory/</loc>
-    <lastmod>2022-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://asasas234.github.io/tags/bpf/</loc>
-    <lastmod>2022-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://asasas234.github.io/tags/IO/</loc>
-    <lastmod>2022-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://asasas234.github.io/tags/JVM/</loc>
     <lastmod>2022-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
