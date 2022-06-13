@@ -124,13 +124,6 @@
   </url>
   
   <url>
-    <loc>https://asasas234.github.io/tags/maven/</loc>
-    <lastmod>2022-06-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://asasas234.github.io/tags/mockito/</loc>
     <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -152,6 +145,13 @@
   </url>
   
   <url>
+    <loc>https://asasas234.github.io/tags/maven/</loc>
+    <lastmod>2022-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://asasas234.github.io/tags/RocketMQ/</loc>
     <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -166,13 +166,6 @@
   </url>
   
   <url>
-    <loc>https://asasas234.github.io/tags/JVM/</loc>
-    <lastmod>2022-06-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://asasas234.github.io/tags/linux/</loc>
     <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -181,6 +174,13 @@
   
   <url>
     <loc>https://asasas234.github.io/tags/IO/</loc>
+    <lastmod>2022-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://asasas234.github.io/tags/JVM/</loc>
     <lastmod>2022-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
