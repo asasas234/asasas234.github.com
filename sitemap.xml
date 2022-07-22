@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://asasas234.github.io/post/MySQL%E5%BF%AB%E9%80%9F%E5%AF%BC%E5%85%A5%E6%95%B0%E6%8D%AE-md.html</loc>
+    <loc>https://asasas234.github.io/post/MySQL%E5%BF%AB%E9%80%9F%E5%AF%BC%E5%85%A5%E6%95%B0%E6%8D%AE.html</loc>
     
     <lastmod>2022-07-22</lastmod>
     
@@ -226,13 +226,6 @@
   </url>
   
   <url>
-    <loc>https://asasas234.github.io/tags/mysql/</loc>
-    <lastmod>2022-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://asasas234.github.io/tags/mockito/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -247,6 +240,13 @@
   </url>
   
   <url>
+    <loc>https://asasas234.github.io/tags/mysql/</loc>
+    <lastmod>2022-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://asasas234.github.io/tags/RocketMQ/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://asasas234.github.io/tags/clickhouse/</loc>
+    <loc>https://asasas234.github.io/tags/JVM/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -268,7 +268,7 @@
   </url>
   
   <url>
-    <loc>https://asasas234.github.io/tags/JVM/</loc>
+    <loc>https://asasas234.github.io/tags/clickhouse/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
